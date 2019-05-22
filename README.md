@@ -2,7 +2,19 @@
 一个继续vuecli2.x版本的空壳架构,vue+vuex+axios+vuerouter
 # demovue
 
-> A Vue.js project
+还在为新项目建立文件而麻烦吗？
+还在纠结吧别人的项目下载下来然后删除业务代码嘛？
+这个空壳子可以帮助你完成一些基础的文件夹架构。
+让你直接从业务代码开始。
+
+
+Still bothering to document new projects?
+
+Are you still struggling to download other people's projects and delete business code?
+
+This empty shell can help you complete some basic folder architectures.
+
+Let you start with business code directly.
 
 ## Build Setup
 
